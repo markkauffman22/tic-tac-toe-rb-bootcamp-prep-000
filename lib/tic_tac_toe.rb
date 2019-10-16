@@ -186,7 +186,8 @@ def play(board)
 end
 =end
 
-# NEED BELOW TO PASS  'learn test' ... (bypass ./bin/tictactoe)
+#NEED BELOW TO PASS'learn test' ... (bypass ./bin/tictactoe)
+
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
